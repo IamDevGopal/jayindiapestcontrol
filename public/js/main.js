@@ -108,4 +108,19 @@
         });
     });
 
+    $(".services__item, .services__page__item").each(function() {
+        $(this).on("click", function() {
+            if ($(this).hasClass("services__item")) {
+                let heading = $(this).find("h5").html();
+                window.location = "/pages/services-details/" + heading;
+            } else if ($(this).hasClass("services__page__item")) {
+                let heading = $(this).find("h5").html();
+                // let src = $(this).find(".services__page__item__pic img").attr("src");
+                // let encodedsrc = encodeURIComponent(src);
+                window.location = "/pages/services-details/" + heading;
+
+            }
+        });
+    })
+
 })(jQuery);

@@ -14,11 +14,11 @@
     </div>
     <div id="mobile-menu-wrap"></div>
     <ul class="offcanvas__widget">
-        <li><span class="icon_map_alt"></span>F-57 PC colony, Malani pakdi devi sathan, Patna 20</li>
-        <li><span class="icon_clock_alt"></span> 08:00 - 19:00</li>
+        <li><span class="icon_map_alt"></span>PC colony, Malani pakdi devi sathan, Patna 20</li>
+        <li><span class="icon_clock_alt"></span>24/7 Support Available</li>
     </ul>
     <div class="offcanvas__auth">
-        <div class="offcanvas__auth__number"><span class="fa fa-phone"></span> (+800) 1234 56781</div>
+        <div class="offcanvas__auth__number"><span class="fa fa-phone"></span> (+91) 9135362558</div>
         <div class="offcanvas__auth__social">
             <a href="index.html#"><i class="fa-brands fa-square-facebook"></i></a>
             <a href="index.html#"><i class="fa-brands fa-square-twitter"></i></a>
@@ -36,13 +36,13 @@
             <div class="row">
                 <div class="col-lg-6">
                     <ul class="header__top__widget">
-                        <li><i class="fa-solid fa-globe"></i> &nbsp; F-57 PC colony, Malani pakdi devi sathan, Patna 20</li>
-                        <li><i class="fa-regular fa-clock"></i> &nbsp; 08:00AM - 07:00PM</li>
+                        <li><i class="fa-solid fa-globe"></i> &nbsp; PC colony, Malani pakdi devi sathan, Patna 20</li>
+                        <li><i class="fa-regular fa-clock"></i> &nbsp; 24/7 Support Available</li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
                     <div class="header__top__right">
-                        <div class="header__top__right__number"><span class="fa fa-phone"></span> (+800) 1234 56781
+                        <div class="header__top__right__number"><span class="fa fa-phone"></span> (+91) 9135362558
                         </div>
                         <div class="header__top__right__social">
                             <a href="index.html#" title="Facebook"><i class="fa-brands fa-square-facebook"></i></a>

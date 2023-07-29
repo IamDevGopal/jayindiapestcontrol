@@ -955,7 +955,7 @@ ol {
 }
 
 .callto__text span {
-    color: #ffffff;
+    color: black;
     font-size: 24px;
     font-weight: 700;
     display: block;
@@ -969,7 +969,7 @@ ol {
 }
 
 .callto__text p {
-    color: #ffffff;
+    color: black;
     margin-bottom: 0;
 }
 
@@ -1459,6 +1459,12 @@ ol {
     padding: 52px 30px 30px;
     margin-bottom: 94px;
     position: relative;
+    cursor: pointer;
+}
+
+.services__item:hover {
+    transform: scale(1.1);
+    transition: .5s;
 }
 
 .services__item h5 {
@@ -1486,6 +1492,12 @@ ol {
     margin-bottom: 45px;
     -webkit-box-shadow: 10px 5px 30px rgba(35, 46, 14, 0.05);
     box-shadow: 10px 5px 30px rgba(35, 46, 14, 0.05);
+    cursor: pointer;
+}
+
+.services__page__item:hover {
+    transform: scale(1.1);
+    transition: .5s;
 }
 
 .services__page__item__pic img {

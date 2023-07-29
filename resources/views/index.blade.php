@@ -145,80 +145,83 @@ active
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-1.png" alt="">
+                            <img src="{{asset('img/services/services-1.png')}}" alt="">
                         </div>
                         <h5>Cockroaches</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>With our team of experienced professionals, we conduct meticulous inspections to identify problem areas. Our eco-friendly treatments guarantee a safe environment for your home or business.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-2.png" alt="">
+                            <img src="{{asset('img/services/services-2.png')}}" alt="">
                         </div>
                         <h5>ANTS</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>
+Experience top-notch ant control services with our expert team. We employ cutting-edge techniques to identify ant colonies and their entry points.  Your satisfaction is our commitment.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-3.png" alt="">
+                            <img src="{{asset('img/services/services-3.png')}}" alt="">
                         </div>
                         <h5>Rodents</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>Experience effective rodent control with our specialized services. Our skilled team swiftly identifies and eliminates infestations, ensuring a pest-free environment. Trust our expertise for tailored solutions.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-4.png" alt="">
+                            <img src="{{asset('img/services/services-4.png')}}" alt="">
                         </div>
                         <h5>Scorpion</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>
+Ensure scorpion-free surroundings with our expert control services. Our team swiftly identifies and eliminates scorpion infestations, providing a safe and secure environment. Trust us for effective solutions.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-5.png" alt="">
+                            <img src="{{asset('img/services/services-5.png')}}" alt="">
                         </div>
                         <h5>Silver Fish</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>Eliminate silverfish infestations with our professional control services. Our team swiftly identifies and eradicates silverfish, ensuring a pest-free environment. Trust us for effective solutions and peace of mind.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-6.png" alt="">
+                            <img src="{{asset('img/services/services-6.png')}}" alt="">
                         </div>
                         <h5>Millipedes</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>
+Combat millipede infestations with our professional control services. Our experts swiftly identify and eliminate millipedes, creating a pest-free environment. Trust us for effective solutions and lasting relief.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-7.png" alt="">
+                            <img src="{{asset('img/services/services-7.png')}}" alt="">
                         </div>
                         <h5>Spiders</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>Banish spiders from your space with our expert control services. Our team efficiently identifies and removes spiders, ensuring a spider-free environment. Count on us for effective solutions and peace of mind.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="img/services/services-8.png" alt="">
+                            <img src="{{asset('img/services/services-8.png')}}" alt="">
                         </div>
                         <h5>Centipede</h5>
-                        <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                        <p>Eradicate centipede infestations with our pest control services. Our skilled team identifies and eliminates centipedes, creating a pest-free environment. Trust us for effective solutions and a centipede-free home or business.
                         </p>
                     </div>
                 </div>
@@ -232,7 +235,7 @@ active
             <div class="row">
                 <div class="col-lg-4">
                     <div class="chooseus__text">
-                        <h2>Why People Choose Pest Cotrol</h2>
+                        <h2>Why People Choose Jay India Pest Cotrol</h2>
                         <p>Our clients receive guaranteed results due to our professional quality assurance policy that forms a solid ground for our high level of efficiency. We strive to work up to our own high standards by improving the tools and technology.</p>
                         <a href="index.html#" class="primary-btn">Read More</a>
                     </div>
@@ -247,18 +250,18 @@ active
                         <div class="chooseus__list__item">
                             <img src="img/chooseus/ci-1.png" alt="">
                             <h5>Comfortable Price</h5>
-                            <p>When you embark on your first PPC journey, you need to keep a small number of keywords at first.
+                            <p>Competitive pricing for your comfort. Get value without compromising quality. Experience affordability without sacrificing satisfaction.
                             </p>
                         </div>
                         <div class="chooseus__list__item">
                             <img src="img/chooseus/ci-2.png" alt="">
                             <h5>Safe And Clean</h5>
-                            <p>It’s usually the creator of a new concept who gets the most mileage from it.</p>
+                            <p>Effective, safe, and clean pest control. Trust us for a pest-free environment you can rely on.</p>
                         </div>
                         <div class="chooseus__list__item">
                             <img src="img/chooseus/ci-3.png" alt="">
                             <h5>Friendly Customer Service</h5>
-                            <p>Give preference to decorative types, especially it concerns your contact information.</p>
+                            <p>Experience friendly customer services that prioritize your satisfaction. Our team is here to assist you with a warm and helpful approach.</p>
                         </div>
                     </div>
                 </div>
@@ -323,7 +326,7 @@ active
     </div>
 
 
-    <section class="testimonial spad">
+    <section class="testimonial spad" id="testimonial">
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-9">
@@ -353,11 +356,11 @@ active
                     </div>
                     <div class="testimonial__slider owl-carousel">
                         <div class="testimonial__item">
-                            <p>“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change and click save.”</p>
+                            <p>“Outstanding pest control service! Swift and effective solutions, friendly staff, and a pest-free home. Highly recommended for anyone in need!”</p>
                             <h6>By John Smith</h6>
                         </div>
                         <div class="testimonial__item">
-                            <p>“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change.”</p>
+                            <p>“Exceptional pest control services! They swiftly handled my cockroach infestation with eco-friendly methods. Professional team, reliable results. Highly recommend!”</p>
                             <h6>By John Smith</h6>
                         </div>
                     </div>
@@ -373,7 +376,7 @@ active
                 <div class="col-lg-4 offset-lg-1">
                     <div class="callto__text">
                         <span>Have Any Question ?</span>
-                        <h2>Call Us: (+800) 1234 56781</h2>
+                        <h2>Call Us:  (+91) 9135362558</h2>
                         <p>Our highly trained pest control professionals have a consistent, proven approach to addressing your unique pest problems.</p>
                     </div>
                 </div>

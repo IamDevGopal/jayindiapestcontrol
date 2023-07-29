@@ -40,11 +40,7 @@ Route::prefix("/pages")->group(function () {
         return view("pages.blog-details");
     })->name("blog-details");
 
-    Route::get("/services-details", function () {
-        return view("pages.services-details");
-    })->name("services-details");
+    Route::get("/services-details/{details}", function (string $details) {
+        return view("pages.services-details", ["details" => $details]);
+    })->name("services-details")->where("details", "Cockroaches|ANTS|Rodents|Scorpion|Silver Fish|Millipedes|Spiders|Centipede");
 });
-
-
-// Admin view routes
-Route::view("/admin", "admin.index");

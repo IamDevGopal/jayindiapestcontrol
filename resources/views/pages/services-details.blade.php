@@ -19,7 +19,7 @@ active
 <div class="row">
 <div class="col-lg-12">
 <div class="breadcrumb__text">
-<h2>Cockroaches Control</h2>
+<h2>{{$details}}</h2>
 </div>
 </div>
 </div>
@@ -38,9 +38,11 @@ rats, may be needed in the outdoor environment; but they become serious pests wh
 are in your home.</p>
 </div>
 <div class="row">
+
 <div class="col-lg-6 col-md-6">
 <div class="services__details__widget__item">
-<h4>Did you wake up this morning or maybe in the middle of the night.</h4>
+   <?php urldecode($content);?>
+{{-- <h4>Did you wake up this morning or maybe in the middle of the night.</h4>
 <ul>
 <li>
 <img src="{{asset('img/icon/spider.png')}}" alt="">
@@ -62,12 +64,13 @@ convallis.</p>
 <p>Vestibulum varius sapien eget zamcorper volutpat. Mauris accumsan nunc
 sit amet turpis semper</p>
 </li>
-</ul>
+</ul> --}}
 </div>
 </div>
+
 <div class="col-lg-6 col-md-6">
 <div class="services__details__widget__item">
-<h4>Here at Whistler Pest Control, we provide business and company.</h4>
+{{-- <h4>Here at Whistler Pest Control, we provide business and company.</h4>
 <ul>
 <li>
 <img src="{{asset('img/icon/spider.png')}}" alt="">
@@ -87,9 +90,10 @@ id pharetra odio dignissim eget.</p>
 ridiculus mus. Sed lacinia hendrerit mauris, non sagittis mi efficitur
 nec. </p>
 </li>
-</ul>
+</ul> --}}
 </div>
 </div>
+
 </div>
 <div class="row">
 <div class="col-lg-6 col-md-6">
@@ -101,16 +105,14 @@ nec. </p>
 <div class="services__chooseus__text">
 <h4>Why Choose Us?</h4>
 <ul>
-<li><i class="fa fa-check"></i> Proin non ex sit amet diam semper volutpat.</li>
-<li><i class="fa fa-check"></i> Donec consectetur eros ac interdum bibendum.
+<li><i class="fa fa-check"></i> Expertise: Our skilled team has extensive experience in pest control solutions.</li>
+<li><i class="fa fa-check"></i> Safety: We use eco-friendly methods to ensure a safe environment
 </li>
-<li><i class="fa fa-check"></i> Suspendisse ultrices lectus luctus ornare
-euismod.</li>
-<li><i class="fa fa-check"></i> Fusce id enim vel orci rutrum luctus.</li>
-<li><i class="fa fa-check"></i> Vestibulum vulputate arcu in tortor gravida
-viverra.</li>
-<li><i class="fa fa-check"></i> Cras cursus leo et fermentum mollis.</li>
-<li><i class="fa fa-check"></i> Nulla ultricies velit eget congue imperdiet.
+<li><i class="fa fa-check"></i> Comprehensive Approach: Thorough inspections and tailored treatments for each case.</li>
+<li><i class="fa fa-check"></i> Reliable Results: Count on us for effective and long-lasting pest eradication.</li>
+<li><i class="fa fa-check"></i> Customer Satisfaction: Your contentment is our top priority.</li>
+<li><i class="fa fa-check"></i> Prompt Response: We address your pest issues quickly and efficiently.</li>
+<li><i class="fa fa-check"></i> Affordable Rates: Quality services without breaking your budget.
 </li>
 </ul>
 </div>
@@ -122,7 +124,7 @@ viverra.</li>
 <div class="col-lg-7">
 <div class="services__details__callto__text">
 <span>Have Any Question ?</span>
-<h2>Call Us: (+800) 1234 56781</h2>
+<h2>Call Us:  (+91) 9135362558</h2>
 <p>Our highly trained pest control professionals have a consistent, proven approach
 to addressing your unique pest problems.</p>
 </div>
